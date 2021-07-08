@@ -1,0 +1,49 @@
+.header {
+    margin: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.navigation {
+    margin-right: 20px;
+    color: rgb(44, 9, 83);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.navigation:hover {
+        color: rgb(204, 68, 102);
+}
+
+.navigation2 {
+    color: rgb(44, 9, 83);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.navigation2:hover {
+        color: rgb(204, 68, 102);
+}
+
+.userMenu {
+    font-size: 20px;
+    font-weight: 800;
+    color: rgb(130, 84, 173);
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.userMenuBtn {
+    height: 30px;
+    width: 100px;
+  margin-left: 10px;
+  border-radius: 15px;
+  background-color: rgb(126, 13, 155);
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.userMenuBtn:hover {
+  background-color: rgb(226, 26, 159);
+}
